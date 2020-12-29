@@ -3,8 +3,8 @@ Our purpose is to design a text-based draft to control inventory(backpack) in ga
 
 # Team Members:
   Raif Yasin Aktümen 
-  Hakan Danacı
-  Feyzi Özgür Orhon
+  ,Hakan Danacı
+  ,Feyzi Özgür Orhon
 
 # Database Management:
 Psql
